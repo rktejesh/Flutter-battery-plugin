@@ -1,13 +1,5 @@
 # Battery Plus
 
-[![Flutter Community: battery_plus](https://fluttercommunity.dev/_github/header/battery_plus)](https://github.com/fluttercommunity/community)
-
-[![pub package](https://img.shields.io/pub/v/battery_plus.svg)](https://pub.dev/packages/battery_plus)
-
-<p class="center">
-<center><a href="https://flutter.dev/docs/development/packages-and-plugins/favorites" target="_blank" rel="noreferrer noopener"><img src="../../website/static/img/flutter-favorite-badge.png" width="100" alt="build"></a></center>
-</p>
-
 A Flutter plugin to access various information about the battery of the device the app is running on.
 
 ## Platform Support
@@ -15,10 +7,6 @@ A Flutter plugin to access various information about the battery of the device t
 | Android | iOS | MacOS | Web | Linux | Windows |
 | :-----: | :-: | :---: | :-: | :---: | :----: |
 |   ✔️    | ✔️  |  ✔️   | ✔️  |  ✔️   |   ✔️   |
-
-## Usage
-
-To use this plugin, add `battery_plus` as a [dependency in your pubspec.yaml file](https://plus.fluttercommunity.dev/docs/overview).
 
 ### Example
 
